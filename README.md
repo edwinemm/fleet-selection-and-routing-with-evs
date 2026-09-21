@@ -1,4 +1,4 @@
-# Strategies for Electrification of Road Freight Fleets
+# Road Freight Electrification
 
 ## A Total Cost of Ownership and Routing Optimization Approach
 
