@@ -12,7 +12,7 @@ The model solves the Electric Vehicle Routing Problem (EVRP) with a heterogeneou
 
 - **Physics-Based Battery Tracking:** Strictly enforces a minimum State of Charge (e.g., `SOC_min = 30%`) and tracks energy propagation continuously across network arcs to eliminate range anxiety.
 
-- **Charging Infrastructure Deployment:** Optimizes the quantity and location of private chargers (e.g., 50 kW, 150 kW) considering both CAPEX and OPEX.
+- **Charging Infrastructure Deployment:** Optimizes the number and location of private chargers (with specified power e.g., 50 kW, 150 kW) considering both CAPEX and OPEX.
 
 - **Comprehensive TCO Objective:** Minimizes the generalized daily cost, which includes vehicle and infrastructure CAPEX, fuel/electricity OPEX, driver wages, maintenance, tolls, and monetized societal CO2 emissions.
 
